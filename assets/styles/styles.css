@@ -90,7 +90,7 @@ nav .nav-link {
 	width: 100%;
 }
 
-.about-title, .about-subtitle1, .about-subtitle2, .contact-title {
+.about-title, .about-subtitle1, .about-subtitle2, .contact-title, .project-title {
 	text-transform: uppercase;
 	margin-bottom: 1rem;
 	margin-top: 2rem;
