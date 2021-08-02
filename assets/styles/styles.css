@@ -82,17 +82,18 @@ nav .nav-link {
 
 }
 
-
 .about-wrapper p {
 	padding: 2rem;
 }
 
 .card {
-	width: 25rem;
+	width: 100%;
 }
 
-.about-title, .about-subtitle1, .about-subtitle2{
+.about-title, .about-subtitle1, .about-subtitle2, .contact-title {
 	text-transform: uppercase;
+	margin-bottom: 1rem;
+	margin-top: 2rem;
 }
 
 footer {
@@ -121,6 +122,7 @@ footer {
 	background-color: #b69d79;
 	font-weight: bolder;
 	height: 30px;
+	margin-top: 5rem;
 }
 
 
@@ -128,6 +130,18 @@ footer {
 	padding-bottom: 2rem;
 	}
 
+.form-container {
+	background-color: #1f2839;
+	border: 2px solid white;
+	color: #f5f5ef;
+
+}
+
+.form-container button {
+
+	background-color: #f5f5ef;
+	
+}
 
 
 @media (min-width: 300px) {
